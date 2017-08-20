@@ -1,5 +1,5 @@
 # LCD
-Working code for direct driving LCD via Arduino
+Working code for direct driving a bare glass LCD via Arduino
 
 
 LCD_original.ino is from http://www.atmel.com/Images/doc8103.pdf. Coded in C to direct drive a bare LCD via IO pins on an ATmega48. 
